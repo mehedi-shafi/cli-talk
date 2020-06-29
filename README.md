@@ -18,7 +18,8 @@ I hoped to cover so many more. I had like 5/6 pages of notes about stuffs I want
 
 > Better late than never.
 
-* Here is a fantastic talk on why you should make a CLI first for your project idea. [link](https://www.youtube.com/watch?v=7qLNrcYkQiY&t=927s)
+* Here is a fantastic talk on why you should make a CLI first for your project idea. [link](https://www.youtube.com/watch?v=7qLNrcYkQiY)
+* Here is another great crash course kind of video that covers most of the basic bash functions [link](https://www.youtube.com/watch?v=oxuRxtrO2Ag)
 * Most famous and used package managers for developers and users are written for CLI. for example `apt` (for debian) `pacman` (for arch) `npm` (node). Even windows is building a centralized package manager with CLI first. 
 * For you mobile geeks who complains how can I run this C code or Python code in android without a cloud IDE or an app showing advertisement? Install [termux](https://play.google.com/store/apps/details?id=com.termux) and install gcc/python or whatever you need. And run your code on your mobile, if you are desperate. 
 * Downloading youtube video can be troublesome right? Use [youtube-dl](http://yt-dl.org/) on both android (tmux) or in your system download video without inconvenience. 
