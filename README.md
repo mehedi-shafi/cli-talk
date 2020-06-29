@@ -23,7 +23,8 @@ I hoped to cover so many more. I had like 5/6 pages of notes about stuffs I want
 * Most famous and used package managers for developers and users are written for CLI. for example `apt` (for debian) `pacman` (for arch) `npm` (node). Even windows is building a centralized package manager with CLI first. 
 * For you mobile geeks who complains how can I run this C code or Python code in android without a cloud IDE or an app showing advertisement? Install [termux](https://play.google.com/store/apps/details?id=com.termux) and install gcc/python or whatever you need. And run your code on your mobile, if you are desperate. 
 * Downloading youtube video can be troublesome right? Use [youtube-dl](http://yt-dl.org/) on both android (tmux) or in your system download video without inconvenience. 
-
+* As promised I have attached my little notes on SSH and Stuffs in this repository. [Note](extra/ssh_and_stuffs.pdf)
+* Also I have included the source code for the netcat chat server I showed [here](netcat-chat), courtesy of [AnapSix](https://gist.github.com/anapsix/11192713)
 > There were a few other tricks and tips I forgot. Maybe I will add them later. 
 
 ### Conclusion
